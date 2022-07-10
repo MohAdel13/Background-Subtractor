@@ -1,0 +1,6 @@
+C:\Users\MOHAMED\Desktop\New folder\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
+C:\Users\MOHAMED\Desktop\New folder\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\MOHAMED\Desktop\Projects\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
+C:\Users\MOHAMED\Desktop\Projects\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\Github Projects\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.AssemblyReference.cache
+D:\Projects\Github Projects\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxproj.SuggestedBindingRedirects.cache
